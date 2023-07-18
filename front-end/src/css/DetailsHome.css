@@ -1,0 +1,173 @@
+.detailshome{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+    left: 0px;
+    top: 0px;
+}
+.dadduser{
+    border-radius: 10px;
+    border-style: none;
+    height: 40px;
+    background-color: aquamarine;
+    position: absolute;
+    right: 700px;
+}
+.dview{
+    border-radius: 10px;
+    border-style: none;
+    height: 40px;
+    background-color: aquamarine;
+    position: absolute;
+    left: 1240px;
+}
+.dedit{
+    border-radius: 10px;
+    border-style: none;
+    height: 40px;
+    background-color: aquamarine;
+    position: absolute;
+    left: 1370px;
+}
+.ddelete{
+    border-radius: 10px;
+    border-style: none;
+    height: 40px;
+    background-color: aquamarine;
+    position: absolute;
+    left: 1300px;
+}
+.detailsadd{
+    width: 100%;
+    height: 950px;
+    z-index: -1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.dsubbtn{
+    border-radius: 10px;
+    border-style: none;
+    position: absolute;
+    left: 650px;
+}
+.dcanbtn{
+    border-radius: 10px;
+    border-style: none;
+    position: absolute;
+    left: 750px;
+}
+.detailsview{
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+.editdetails{
+    position: absolute;
+    left: 0px;
+    width:1470px;
+    height: 950px;
+    z-index: -1;
+}
+.col{
+    position: absolute;
+    left: 150px;
+    top: 100px;
+    left: 500px;
+    height: 800px;
+}
+.text-centerd{
+    position: absolute;
+    top: 100px;
+    left: 650px;
+    color: white;
+}
+.desub{
+    position: relative;
+    top: 60px;
+    left: 200px;
+    height: 40px;
+    width: 100px;
+    border-style: none;
+    border-radius: 10px;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 20px;
+}
+.decan{
+    position: relative;
+    top: 60px;
+    left: 270px;
+    height: 40px;
+    width: 100px;
+    border-style: none;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: 'Patrick Hand', cursive;
+}
+.decan:hover{
+    background-color: antiquewhite;
+}
+.desub:hover{
+    background-color: antiquewhite;
+}
+.form-label{
+    font-family: 'Patrick Hand', cursive;
+    font-size: 20px;
+
+}
+.backbtn1{
+    border-style: none;
+    height: 50px;
+    position: relative;
+    left: 220px;
+    border-radius: 10px;
+    background-color: palevioletred;
+}
+.dcol{
+    position: absolute;
+    width: 600px;
+    height: 500px;
+    left: 400px;
+    top: 100px;
+}
+.backbtn{
+    position: relative;
+    top: 30px;
+    left: 0px;
+}
+.dsubbtn{
+    position: absolute;
+    top: 710px;
+    left: 130px;
+    height: 40px;
+}
+.dhcol{
+    position: absolute;
+    height: 860px;
+    width: 500px;
+    left: 400px;
+}
+.dcanbtn{
+    position: absolute;
+    top: 710px;
+    left: 260px;
+    height: 40px;
+}
+.dcanbtn:hover{
+    background-color: gray;
+}
+.dsubbtn:hover{
+    background-color: gray;
+}
+.mb{
+    position: relative;
+    top: 0px;
+}
+.form-label{
+    position: relative;
+    top: 10px;
+}

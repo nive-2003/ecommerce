@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Patrick+Hand&display=swap');
+.app {
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    height: 100vh;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    background-color: #f8f9fd;
+  }
+  
+  input[type="text"],
+  input[type="password"] {
+    height: 25px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    font-family: 'Kaushan Script', cursive;
+  }
+  
+  input[type="submit"] {
+    margin-top: 10px;
+    cursor: pointer;
+    font-size: 15px;
+    background: #01d28e;
+    border: 1px solid #01d28e;
+    color: #fff;
+    padding: 10px 20px;
+  }
+  
+  input[type="submit"]:hover {
+    background: #6cf0c2;
+  }
+  
+  .authsub {
+    position: absolute;
+    top: 10px;
+    left: 150px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .login-form1 {
+    background-color: rgba(255, 255, 255, 0.462);
+    padding: 2rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    position: absolute;
+    right: 30px;
+    height: 500px;
+    width:500px;
+  }
+  
+  .list-container {
+    display: flex;
+  }
+  
+  .error {
+    color: red;
+    font-size: 20px;
+  }
+  
+  .title {
+    font-size: 25px;
+    margin-bottom: 20px;
+  }
+  .title1 {
+    font-size: 25px;
+    margin-bottom: 20px;
+  }
+  
+  .input-container {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin: 10px;
+    /* font-family: 'Kaushan Script', cursive; */
+  }
+ 
+  .loginasadminpage{
+    width:60%;
+    height: 100%;
+    position: absolute;
+    left: 0px;
+  }
+  .adminbutton{
+    background-color: #01d28e;
+  border: 1px solid #01d28e;
+  position: relative;
+  top: 150px;
+  width: 100px;
+  height: 50px;
+  right: 50px;
+  }
+  .adminbutton:hover{
+    background: #6cf0c2;
+  }
+  .title{
+    font-family: 'Kaushan Script', cursive;
+  }
+  .form{
+    font-family: 'Kaushan Script', cursive;
+    font-size: 20px;
+  }
+  .aaddd{
+    font-family: 'Kaushan Script', cursive;
+    font-size: 20px;
+  }

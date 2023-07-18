@@ -1,0 +1,36 @@
+.bu{
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-style: none;
+    background-color: rgba(38, 201, 201, 0.601);
+    font-family: 'Caveat', cursive;
+    font-weight: 200;
+    font-size: 25px;
+    width: 250px;
+}
+.nav-link{
+    font-family: 'Caveat', cursive;
+    font-weight: 200;
+    font-size: 25px;
+}
+.ho{
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-style: none;
+    background-color: rgba(38, 201, 201, 0.601);
+    font-family: 'Caveat', cursive;
+    font-weight: 200;
+    font-size: 25px;
+    width: 250px;
+}
+/* .container-fluid{
+z-index: -1;
+} */
+.navbar-brand{
+    font-family: 'Tilt Prism', cursive;
+    font-weight: 900;
+}

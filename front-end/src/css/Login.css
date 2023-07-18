@@ -1,0 +1,48 @@
+.tabs{
+    position: absolute;
+    top: 150px;
+    left: 550px;
+    width: 450px;
+    height: 600px;
+    border-radius: 10px;
+    background-color: rgba(145, 111, 66, 0.656);
+}
+.loginedit{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+}
+.text-centere{
+    position: relative;
+    left: 150px;
+}
+.editsubmit{
+    border-style: none;
+    width: 100px;
+    height: 45px;
+    background-color: bisque;
+    position: relative;
+    left: 80px;
+    top: 80px;
+    border-radius: 10px;
+}
+.editsubmit:hover{
+    background-color: rgb(191, 125, 45);
+}
+.editcancel:hover{
+    background-color: rgb(191, 125, 45);
+}
+.editcancel{
+    border-style: none;
+    width: 100px;
+    height: 45px;
+    position: relative;
+    left: 110px;
+    background-color: bisque;
+    top: 80px;
+    border-radius: 10px;
+}
+.form-control{
+    width: 50px;
+}

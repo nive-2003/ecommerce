@@ -1,0 +1,109 @@
+.carthome{
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    position: absolute;
+    top: 0px;
+}
+.cviewuser{
+    border-style: none;
+    border-radius: 10px;
+    background-color: rgba(255, 51, 153, 0.838);
+    position: absolute;
+    right: 190px;
+}
+.cedituser{
+    border-style: none;
+    border-radius: 10px;
+    background-color: rgba(255, 51, 153, 0.838);
+    position: absolute;
+    right: 280px;
+    width: 60px;
+
+}
+.cdelete{
+    border-style: none;
+    border-radius: 10px;
+    background-color: rgba(255, 51, 153, 0.838);
+    position: absolute;
+    right: 100px;
+    width: 60px;
+
+}
+.cadduser{
+    border-style: none;
+    border-radius: 10px;
+    background-color: rgba(255, 51, 153, 0.838);
+    position: absolute;
+    right: 700px;
+    width: 100px;
+    height: 40px;
+    font-family: 'Lilita One', cursive;
+    font-weight: 100;
+    font-size: 15px;
+}
+.cadduser:hover{
+    background-color: hsl(336, 100%, 50%);
+}
+.cdelete:hover{
+    background-color: hsl(336, 100%, 50%);
+}
+.cedituser:hover{
+    background-color: hsl(336, 100%, 50%);
+}
+.cviewuser:hover{
+    background-color: hsl(336, 100%, 50%);
+}
+.cimg{
+    width: 200px;
+    height: 150px;
+    border-radius: 50px;
+}
+.editquser{
+    position: absolute;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+}
+.ctext-center{
+    color: rgb(82, 71, 59);
+}
+.col{
+    position: absolute;
+    top: 20px;
+}
+.casub{
+    border-style: none;
+    position: relative;
+    top: 100px;
+    height: 50px;
+    width: 70px;
+    border-radius: 10px;
+    background-color: rgba(128, 128, 128, 0.847);
+    font-size: 18px;
+    left: 90px;
+}
+.cacancel{
+    border-style: none;
+    position: relative;
+    top: 100px;
+    height: 50px;
+    width: 70px;
+    border-radius: 10px;
+    background-color: rgba(128, 128, 128, 0.826);
+    font-size: 18px;
+    left: 190px;
+}
+.row{
+    height: 700px;
+}
+.form-control{
+    position: relative;
+    left: 50px;
+}
+.form-label{
+    position: relative;
+    left: 50px;
+    font-weight: 900;
+}

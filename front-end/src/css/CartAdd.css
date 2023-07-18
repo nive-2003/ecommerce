@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+.cartadd{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0px;
+    z-index: -1;
+    left: 0px;
+}
+.container{
+    font-family: 'Lilita One', cursive;
+    font-weight: 100;
+    font-size: 15px;
+}
+.csubmit{
+    position: absolute;
+    left: 150px;
+    background-color: rgba(255, 105, 36, 0.621);
+    border-style: none;
+    border-radius: 10px;
+    height: 40px;
+    width: 80px;
+    top: 570px; 
+}
+.ccancel{
+    position: absolute;
+    left: 250px;
+     top: 570px; 
+    background-color: rgba(255, 105, 36, 0.621);
+    border-style: none;
+    border-radius: 10px;
+    height: 40px;
+    width: 80px;
+}
+.ccancel:hover{
+    background-color: hsla(11, 100%, 53%, 1);
+}
+.csubmit:hover{
+    background-color: hsla(11, 100%, 53%, 1);
+}
+.cartview{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0px;
+    z-index: -1;
+    left: 0px;
+}
+.form-control{
+    width: 200px;
+}
+.mb-3{
+    position: relative;
+    top: 60px;
+}
+.text-centerp{}
